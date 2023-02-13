@@ -2,4 +2,6 @@ include AUTHORS
 include LICENSE
 include demo.py
 include coco_test.py
+include cython/coco.h
+include cython/coco.c
 include bbob2009_testcases.txt
